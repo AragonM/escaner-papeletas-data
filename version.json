@@ -1,0 +1,7 @@
+{
+  "version": "1.1.0",
+  "versionCode": 3,
+  "releaseDate": "2026-08-03",
+  "releaseNotes": "Pantalla de conexión más clara: ahora dice \"Vincular con el servidor\" y \"clave secreta\". El recuadro para escanear el QR sale centrado desde el inicio, sin tener que subirlo con el dedo.",
+  "apkUrl": "https://github.com/AragonM/escaner-papeletas-data/releases/download/v1.1.0/escaner-papeletas-1.1.0.apk"
+}
