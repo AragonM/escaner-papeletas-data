@@ -1,7 +1,7 @@
 {
-  "version": "1.2.0",
-  "versionCode": 4,
+  "version": "1.3.0",
+  "versionCode": 5,
   "releaseDate": "2026-08-04",
-  "releaseNotes": "El marco de la cámara ya reconoce la hoja y se pone verde solo, sin esperar el botón manual. Además, la app propone la opción marcada comparando la foto contra la plantilla — está EN PRUEBA: revisa siempre lo que propone antes de confirmar.",
-  "apkUrl": "https://github.com/AragonM/escaner-papeletas-data/releases/download/v1.2.0/escaner-papeletas-1.2.0.apk"
+  "releaseNotes": "El botón de la cámara sale desde el primer momento, sin esperar a que el marco se ponga verde. Y la app lee la marca sola: propone la opción que el entrevistado marcó (X, tachón, círculo o rayón) y tú confirmas. Nunca guarda una respuesta sin que la revises.",
+  "apkUrl": "https://github.com/AragonM/escaner-papeletas-data/releases/download/v1.3.0/escaner-papeletas-1.3.0.apk"
 }
