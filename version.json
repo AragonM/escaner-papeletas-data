@@ -1,7 +1,7 @@
 {
-  "version": "1.4.1",
-  "versionCode": 8,
+  "version": "1.4.2",
+  "versionCode": 9,
   "releaseDate": "2026-08-05",
-  "releaseNotes": "Se quitó el recuadro de la cámara. Ya no hace falta meter la hoja dentro de ningún marco: toma la foto como te acomode y la lectura funciona igual.",
-  "apkUrl": "https://github.com/AragonM/escaner-papeletas-data/releases/download/v1.4.1/escaner-papeletas-1.4.1.apk"
+  "releaseNotes": "Se corrigieron dos instrucciones que ya no correspondían: la que pedía encuadrar la hoja dentro de un marco que ya no existe, y la que decía que se preguntaría la sección en cada papeleta cuando la sección se quitó hace días.",
+  "apkUrl": "https://github.com/AragonM/escaner-papeletas-data/releases/download/v1.4.2/escaner-papeletas-1.4.2.apk"
 }
