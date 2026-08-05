@@ -1,7 +1,7 @@
 {
-  "version": "1.4.0",
-  "versionCode": 7,
-  "releaseDate": "2026-08-04",
-  "releaseNotes": "Ahora sí ves qué respuesta se detectó: aparece arriba y grande, ya no tapada por los botones. Al tomar la foto la pantalla se congela y dice «Leyendo la papeleta…» con el tiempo. «Volver a tomar la foto» ya funciona y el botón atrás te regresa al escáner de una vez. Al aceptar el QR vas directo a la cámara. Anular una papeleta ya no es un solo toque: pregunta antes, porque se guarda sin respuesta.",
-  "apkUrl": "https://github.com/AragonM/escaner-papeletas-data/releases/download/v1.4.0/escaner-papeletas-1.4.0.apk"
+  "version": "1.4.1",
+  "versionCode": 8,
+  "releaseDate": "2026-08-05",
+  "releaseNotes": "Se quitó el recuadro de la cámara. Ya no hace falta meter la hoja dentro de ningún marco: toma la foto como te acomode y la lectura funciona igual.",
+  "apkUrl": "https://github.com/AragonM/escaner-papeletas-data/releases/download/v1.4.1/escaner-papeletas-1.4.1.apk"
 }
