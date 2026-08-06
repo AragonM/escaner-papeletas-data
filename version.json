@@ -1,7 +1,7 @@
 {
-  "version": "1.5.2",
-  "versionCode": 12,
+  "version": "1.5.3",
+  "versionCode": 13,
   "releaseDate": "2026-08-05",
-  "releaseNotes": "Arregla el bloqueo al escanear el QR: la actualización interna de la base de datos no cuadraba y fallaba en silencio. Además, si algo falla ahora se dice en pantalla en vez de dejarla muerta.",
-  "apkUrl": "https://github.com/AragonM/escaner-papeletas-data/releases/download/v1.5.2/escaner-papeletas-1.5.2.apk"
+  "releaseNotes": "Arregla el cierre al cargar proyectos que pedía borrar caché. No hace falta borrar los datos de la app: actualiza y abre normal, sin perder las capturas pendientes de enviar.",
+  "apkUrl": "https://github.com/AragonM/escaner-papeletas-data/releases/download/v1.5.3/escaner-papeletas-1.5.3.apk"
 }
