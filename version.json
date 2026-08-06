@@ -1,7 +1,7 @@
 {
-  "version": "1.5.1",
-  "versionCode": 11,
+  "version": "1.5.2",
+  "versionCode": 12,
   "releaseDate": "2026-08-05",
-  "releaseNotes": "Al escanear una papeleta de un lote recién publicado, el teléfono ahora descarga solo la plantilla nueva en vez de quedarse atorado en el QR.",
-  "apkUrl": "https://github.com/AragonM/escaner-papeletas-data/releases/download/v1.5.1/escaner-papeletas-1.5.1.apk"
+  "releaseNotes": "Arregla el bloqueo al escanear el QR: la actualización interna de la base de datos no cuadraba y fallaba en silencio. Además, si algo falla ahora se dice en pantalla en vez de dejarla muerta.",
+  "apkUrl": "https://github.com/AragonM/escaner-papeletas-data/releases/download/v1.5.2/escaner-papeletas-1.5.2.apk"
 }
