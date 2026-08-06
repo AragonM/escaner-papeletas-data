@@ -1,7 +1,7 @@
 {
-  "version": "1.4.2",
-  "versionCode": 9,
+  "version": "1.5.0",
+  "versionCode": 10,
   "releaseDate": "2026-08-05",
-  "releaseNotes": "Se corrigieron dos instrucciones que ya no correspondían: la que pedía encuadrar la hoja dentro de un marco que ya no existe, y la que decía que se preguntaría la sección en cada papeleta cuando la sección se quitó hace días.",
-  "apkUrl": "https://github.com/AragonM/escaner-papeletas-data/releases/download/v1.4.2/escaner-papeletas-1.4.2.apk"
+  "releaseNotes": "Ya se puede marcar el mismo candidato en varios partidos y cuenta como respuesta válida. La app ya no se cierra sola después de varios escaneos. Escanear sin internet ya funciona: pide capturar la respuesta a mano y la sube sola cuando hay señal.",
+  "apkUrl": "https://github.com/AragonM/escaner-papeletas-data/releases/download/v1.5.0/escaner-papeletas-1.5.0.apk"
 }
