@@ -1,7 +1,7 @@
 {
-  "version": "1.5.3",
-  "versionCode": 13,
+  "version": "1.5.4",
+  "versionCode": 14,
   "releaseDate": "2026-08-05",
-  "releaseNotes": "Arregla el cierre al cargar proyectos que pedía borrar caché. No hace falta borrar los datos de la app: actualiza y abre normal, sin perder las capturas pendientes de enviar.",
-  "apkUrl": "https://github.com/AragonM/escaner-papeletas-data/releases/download/v1.5.3/escaner-papeletas-1.5.3.apk"
+  "releaseNotes": "Las papeletas con el folio al frente daban un error al procesarlas: el teléfono exigía un dato que esas papeletas no tienen y que además nunca usaba. Arreglado.",
+  "apkUrl": "https://github.com/AragonM/escaner-papeletas-data/releases/download/v1.5.4/escaner-papeletas-1.5.4.apk"
 }
