@@ -21,12 +21,12 @@ exponer nada más.
 
 ```json
 {
-  "version": "1.6.0",
-  "versionCode": 15,
+  "version": "1.6.1",
+  "versionCode": 16,
   "releaseDate": "2026-08-07",
   "releaseNotes": "Qué cambió, en lenguaje de campo.",
-  "apkUrl": "https://github.com/AragonM/escaner-papeletas-data/releases/download/v1.6.0/escaner-papeletas-1.6.0.apk",
-  "sha256": "9b4410250f0b2b1e8aa1f8d25705ddb62962d0a17cc3e6e7aa06d696e11fb711"
+  "apkUrl": "https://github.com/AragonM/escaner-papeletas-data/releases/download/v1.6.1/escaner-papeletas-1.6.1.apk",
+  "sha256": "13217d364afe576f7d5f95a276669b894dcc1b2f26427bfca0f5d96f7469f039"
 }
 ```
 
@@ -68,6 +68,7 @@ se conservan.
 
 | Versión | `versionCode` | Cambios |
 |---|---|---|
+| 1.6.1 | 16 | La actualización de los teléfonos ya no depende de que el servidor esté al día; correcciones en las descargas de resultados |
 | 1.6.0 | 15 | La captura sin señal ya no se registra como papeleta anulada; verificación de la huella y el origen del instalador; instalador 60 % más ligero |
 | 1.5.4 | 14 | Lectura de papeletas impresas a una sola cara |
 | 1.5.3 | 13 | Corrección del cierre inesperado al cargar proyectos |
