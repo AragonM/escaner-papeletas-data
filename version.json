@@ -1,7 +1,8 @@
 {
-  "version": "1.5.4",
-  "versionCode": 14,
-  "releaseDate": "2026-08-05",
-  "releaseNotes": "Las papeletas con el folio al frente daban un error al procesarlas: el teléfono exigía un dato que esas papeletas no tienen y que además nunca usaba. Arreglado.",
-  "apkUrl": "https://github.com/AragonM/escaner-papeletas-data/releases/download/v1.5.4/escaner-papeletas-1.5.4.apk"
+  "version": "1.6.0",
+  "versionCode": 15,
+  "releaseDate": "2026-08-07",
+  "releaseNotes": "Una papeleta capturada sin señal ya no se registra como anulada: antes ensuciaba el conteo de papeletas dañadas del estudio. Además, la app ahora comprueba que la actualización que descarga sea la publicada por Áragon antes de instalarla.",
+  "apkUrl": "https://github.com/AragonM/escaner-papeletas-data/releases/download/v1.6.0/escaner-papeletas-1.6.0.apk",
+  "sha256": "9b4410250f0b2b1e8aa1f8d25705ddb62962d0a17cc3e6e7aa06d696e11fb711"
 }
