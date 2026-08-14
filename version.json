@@ -1,8 +1,8 @@
 {
-  "version": "1.6.1",
-  "versionCode": 16,
-  "releaseDate": "2026-08-07",
-  "releaseNotes": "Actualizar los teléfonos ya no depende de que el servidor esté al día: el dato de voto por coalición solo viaja cuando la papeleta lo tiene. Incluye correcciones en las descargas de resultados.",
-  "apkUrl": "https://github.com/AragonM/escaner-papeletas-data/releases/download/v1.6.1/escaner-papeletas-1.6.1.apk",
-  "sha256": "13217d364afe576f7d5f95a276669b894dcc1b2f26427bfca0f5d96f7469f039"
+  "version": "1.6.2",
+  "versionCode": 17,
+  "releaseDate": "2026-08-14",
+  "releaseNotes": "El primer escaneo del día ya no se atora: la app precalienta la conexión y reintenta sola si la red parpadea. Un servidor lento ya no se reporta como falta de internet.",
+  "apkUrl": "https://github.com/AragonM/escaner-papeletas-data/releases/download/v1.6.2/escaner-papeletas-1.6.2.apk",
+  "sha256": "c6c96af52fa6804a1439912978acc7a2c1cc54a530b5ce3c9c8638b7e58bac23"
 }
