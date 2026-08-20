@@ -1,8 +1,8 @@
 {
-  "version": "1.6.2",
-  "versionCode": 17,
-  "releaseDate": "2026-08-14",
-  "releaseNotes": "El primer escaneo del día ya no se atora: la app precalienta la conexión y reintenta sola si la red parpadea. Un servidor lento ya no se reporta como falta de internet.",
-  "apkUrl": "https://github.com/AragonM/escaner-papeletas-data/releases/download/v1.6.2/escaner-papeletas-1.6.2.apk",
-  "sha256": "c6c96af52fa6804a1439912978acc7a2c1cc54a530b5ce3c9c8638b7e58bac23"
+  "version": "1.7.0",
+  "versionCode": 18,
+  "releaseDate": "2026-08-19",
+  "releaseNotes": "Papeletas verticales listas: el escáner las lee igual de bien que las horizontales. Ajustes ahora desde la pantalla de inicio (modo noche, sonido, versión y actualización). Se quitó el modo de prueba 'Simular sin conexión'.",
+  "apkUrl": "https://github.com/AragonM/escaner-papeletas-data/releases/download/v1.7.0/escaner-papeletas-1.7.0.apk",
+  "sha256": "184b4125d4afa1befbad0a199280eed92e899c2c53eda028cd5b356af34433db"
 }
