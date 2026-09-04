@@ -1,8 +1,8 @@
 {
-  "version": "1.7.1",
-  "versionCode": 19,
-  "releaseDate": "2026-08-26",
-  "releaseNotes": "Cuando corriges una papeleta porque el modelo la leyó mal, el teléfono sube la foto de esa papeleta al servidor: el supervisor la revisa en el escritorio junto a la boleta digital. Además, el aviso de 'esta papeleta ya fue registrada' ya no aparece cuando en realidad sí se guardó.",
-  "apkUrl": "https://github.com/AragonM/escaner-papeletas-data/releases/download/v1.7.1/escaner-papeletas-1.7.1.apk",
-  "sha256": "e5143499053f560f2dfc5dc9278b1829c2c7e3ce715574b452bf50d0366f45e7"
+  "version": "1.7.2",
+  "versionCode": 20,
+  "releaseDate": "2026-09-04",
+  "releaseNotes": "La aplicación ahora aparece como 'Boletas' en la pantalla de inicio y en Ajustes del teléfono. El ícono deja el fondo casi negro y usa el azul secundario de Áragon con el logotipo rojo actualizado. No cambia el flujo de captura ni borra proyectos, datos o papeletas pendientes.",
+  "apkUrl": "https://github.com/AragonM/escaner-papeletas-data/releases/download/v1.7.2/escaner-papeletas-1.7.2.apk",
+  "sha256": "9ccc9b861e4fcb767d875757347a8aeb2a60d916152673c876cbc4a11e8446f0"
 }
